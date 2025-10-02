@@ -1,4 +1,5 @@
-D 'DEA': Data envelopment analysis
+D 'censornb': Censored negative binomial regression as survival model Use censornb With STATA 19
 D
-F dea.ado
-F dea.sthlp
+F cenegbinll.ado
+F censornb.ado
+F censornb.hlp
