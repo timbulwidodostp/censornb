@@ -1,6 +1,8 @@
 # censornb
 Censored negative binomial regression as survival model Use censornb With STATA 19
 
+https://www.youtube.com/watch?v=JtsMKTTIBJo
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
